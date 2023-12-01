@@ -1,0 +1,6 @@
+vectorstore
+__pycache__
+.env
+data
+.vscode
+todo

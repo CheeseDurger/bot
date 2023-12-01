@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+openai = "*"
+pypdf = "*"
+tiktoken = "*"
+faiss-cpu = "*"
+playwright = "*"
+beautifulsoup4 = "*"
+duckduckgo-search = "*"
+wikipedia = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
